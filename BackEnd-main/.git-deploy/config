@@ -6,7 +6,7 @@
 	symlinks = false
 	ignorecase = true
 [remote "heroku"]
-	url = https://git.heroku.com/heroku-backendmgb.git
+	url = https://git.heroku.com/backendeprueba.git
 	fetch = +refs/heads/*:refs/remotes/heroku/*
 [branch "master"]
 	remote = heroku
